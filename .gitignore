@@ -1,0 +1,25 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.eclipse
+
+# Spring Boot
+*.log
+application-local.yml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private implementation notes (local only)
+_IMPLEMENTATION_GUIDE.md
+_notes/
+_scratch/
